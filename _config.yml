@@ -1,10 +1,10 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
-twitter_username: 
+title: Travel Blog Cerf
+email: traveleando@gmail.com
+description: A demo blog about creating a Jekyll Site on GitHub
+baseurl: "/travel-blog"
+
+twitter_username: guilh
 avatar: "" # Set footer avatar
 paginate: 3
 
@@ -19,8 +19,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Cerf" # Set default author name
+      categories: "places"
       layout: "post"
       comments: true
   -
